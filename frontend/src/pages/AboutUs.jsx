@@ -90,7 +90,7 @@ const AboutUs = () => {
               <h5>Quick Links</h5>
               <ul className="list-unstyled">
                 <li><a href="/" className="footer-link">Home</a></li>
-                <li><a href="/about" className="footer-link">About Us</a></li>
+                <li><a href="/aboutus" className="footer-link" target="_self">About Us</a></li>
               </ul>
             </Col>
 

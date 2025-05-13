@@ -225,7 +225,7 @@ app.post('/api/students',authenticate,(req, res) => {
   });
   
   // ✅ Get student by ID (backend)
-app.get('/api/students/:id', authenticate, (req, res) => {
+app.get('/api/student/:id', authenticate, (req, res) => {
   const { id } = req.params;
 
   const sql = 'SELECT * FROM students WHERE id = ?';
