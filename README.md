@@ -16,7 +16,7 @@ A web-based application designed to help teachers efficiently manage student att
 
 | Layer       | Technology                  |
 |-------------|-----------------------------|
-| Frontend    | HTML, CSS, JavaScript       |
+| Frontend    | react, react-bootstrap      |
 | Backend     | Node.js, Express.js         |
 | Database    | MySQL                       |
 | Auth        | JWT (JSON Web Tokens), bcrypt |
