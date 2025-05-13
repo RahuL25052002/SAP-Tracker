@@ -45,7 +45,6 @@ A web-based application designed to help teachers efficiently manage student att
 - `attendance` — stores daily student attendance records
 - `grades` — stores subject-wise grades for each student
 
-> See ER diagram in `/docs/ER_diagram.png` (or generated above).
 
 ---
 
